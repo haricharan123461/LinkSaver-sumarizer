@@ -1,5 +1,9 @@
 # LinkSaver - AI-Powered Bookmark Manager
 
+
+https://github.com/user-attachments/assets/e75272a3-eac6-475c-8c8e-febe5a98ab61
+
+
 A modern web application for saving and organizing bookmarks with AI-generated summaries. Built with React, Tailwind CSS, Supabase, and Jina AI.
 
 ## 🌐 Live Demo
